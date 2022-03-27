@@ -5,7 +5,7 @@ public class hrDepartment extends superDepartment  {
 		return "HR Department";
 	}
 	protected String  getTodaysWork() {
-		return "Fill today’s worksheet and mark your attendance";
+		return "Fill todayâ€™s worksheet and mark your attendance";
 	}
 	protected String getWorkDeadline() {
 		return "Complete by EOD ";
